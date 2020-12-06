@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelbluesjy.github.io</id>
     <title>Angelblue&apos;Blog</title>
-    <updated>2020-12-06T07:30:32.609Z</updated>
+    <updated>2020-12-06T07:34:53.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelbluesjy.github.io"/>
     <link rel="self" href="https://angelbluesjy.github.io/atom.xml"/>
@@ -10,6 +10,112 @@
     <logo>https://angelbluesjy.github.io/images/avatar.png</logo>
     <icon>https://angelbluesjy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Angelblue&apos;Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[VMware Workstation Pro v16.1.0 虚拟机软件及永久许可证]]></title>
+        <id>https://angelbluesjy.github.io/vmware-workstation-pro-v1610-xu-ni-ji-ruan-jian-ji-yong-jiu-xu-ke-zheng/</id>
+        <link href="https://angelbluesjy.github.io/vmware-workstation-pro-v1610-xu-ni-ji-ruan-jian-ji-yong-jiu-xu-ke-zheng/">
+        </link>
+        <updated>2020-12-06T07:34:16.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<h1 id="vmware-workstation-pro-v1610-虚拟机软件及永久许可证">VMware Workstation Pro v16.1.0 虚拟机软件及永久许可证</h1>
+</blockquote>
+<p>Windows平台最强虚拟机软件已经更新到了 <strong>VMware Workstation Pro 15</strong>版本了，VMware Workstation Pro 15 全面进行了改造重新制作了UI界面及LOGO图标，VMware Workstation 允许操作系统和应用程序在一台虚拟机内部运行。虚拟机是独立运行主机操作系统的离散环境。在 VMware Workstation 中，你可以在一个窗口中加载一台虚拟机，它可以运行自己的操作系统和应用程序。你可以在运行于桌面上的多台虚拟机之间切换，通过一个网络共享虚拟机，挂起和恢复虚拟机以及退出虚拟机，这一切不会影响你的主机操作和任何操作系统或者其它正在运行的应用程序。</p>
+<figure data-type="image" tabindex="1"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206150007367.png" alt="image-20201206150007367" loading="lazy"></figure>
+<p>VMware 是真正“同时”运行多个操作系统在主系统的平台上，就像标准 Windows 应用程序那样切换。而且每个操作系统你都可以进行虚拟的分区、配置而不影响真实硬盘的数据，你甚至可以通过网卡将几台虚拟机用网卡连接为一个局域网，极其方便。因此，VMware 也坐上了全球第四大系统软件公司的宝座。</p>
+<p>VMware是功能最强大的虚拟机软件，用户可以在虚拟机同时运行各种操作系统，进行开发、测试、演示和部署软件，虚拟机中复制服务器、台式机和平板环境，每个虚拟机可分配多个处理器核心、主内存和显存。VMware Workstation™15 Pro延续了VMware的传统，即提供专业技术人员每天在使用虚拟机时所依赖的领先功能和性能。借助对最新版本的Windows和客户机操作系统版本、最新的处理器和硬件的支持以及连接到VMware vSphere和vCloud Air的能力，让它成为提高工作效率、节省时间和征服云计算的完美工具。</p>
+<p><strong>主要功能</strong></p>
+<p>1、在一台 PC 上运行多个操作系统<br>
+借助 VMware Workstation Pro，您可以在同一台 Windows 或 Linux PC 上同时运行多个操作系统。创建真实的 Linux 和 Windows 虚拟机以及其他桌面、服务器和平板电脑环境（包括可配置的虚拟网络连接和网络条件模拟），用于代码开发、解决方案构建、应用测试、产品演示等。</p>
+<p>2、可针对任何平台进行开发和测试<br>
+Workstation Pro 支持数百种操作系统，可与云技术和容器技术（如 Docker 和 Kubernetes）协同工作。</p>
+<p>3、可连接到 VMware vSphere<br>
+可安全地与 vSphere、ESXi 或其他 Workstation 服务器连接，以启动、控制和管理虚拟机 (VM) 和物理主机。常见的 VMware hypervisor 可最大限度地提高工作效率，实现与本地 PC 之间轻松传输虚拟机。</p>
+<p>4、安全的隔离环境<br>
+运行具有不同隐私设置、工具和网络连接配置的第二个安全桌面，或使用取证工具调查操作系统漏洞。Workstation 可提供业界最安全的 hypervisor 之一，还可为 IT 安全专业人员提供强大功能。</p>
+<p><strong>功能特性</strong></p>
+<p>1、vSphere 集成<br>
+Workstation 是 vSphere 的首要配套组件。共享的 hypervisor 可为用户提供与众不同的逼真虚拟环境，从而确保应用轻松地在桌面设备、数据中心和云环境之间移动。Workstation 能够为远程集群、数据中心和虚拟机提供洞察信息，同时还使用户可以在本地实验室的单台 PC 上将 ESXi 和 vCenter Server Appliance 快速部署为虚拟机。</p>
+<p>2、全新的虚拟机自动化 REST API<br>
+可在本地作为工作流增强功能使用，也可在远程用来命令异地虚拟服务器，这一全新 RESTAPI 所利用的 API 框架与 VMware Fusion 引入的框架相同。可提供 20 多个用于控制主机和客户机虚拟网络连接、虚拟机电源以及共享文件夹管理的运维控件，以便以编程方式直接挂载来自主机的源代码。</p>
+<p>3、高性能 3D 图形<br>
+VMware Workstation Pro 支持 DirectX 10.1 和 OpenGL 3.3，可在运行 3D 应用时提供顺畅且响应迅速的体验。可在 Windows 虚拟机中以接近本机的性能运行 AutoCAD 或 SOLIDWORKS 等要求最为严苛的 3D 应用。</p>
+<p>4、强大的虚拟网络连接<br>
+可使用真实的路由软件和工具，为虚拟机创建复杂的 IPv4 或 IPv6 虚拟网络，或通过与第三方软件集成来设计完整的数据中心拓扑。通过引入数据包丢失、延迟和带宽限制来测试虚拟网络模拟的应用恢复能力。</p>
+<p>5、使用克隆进行快速复制<br>
+重复创建相同虚拟机设置时，可节省时间和精力，确保副本完全相同。使用“链接克隆”快速复制虚拟机，同时可显著减少所需的物理磁盘空间。使用“完整克隆”可创建能够与其他人共享的完全独立的副本。</p>
+<p>6、创建回滚快照<br>
+创建回滚点以便实时还原，这非常适合于测试未知软件或创建客户演示。可以利用多个快照轻松测试各种不同的场景，无需安装多个操作系统。</p>
+<p>7、巨型虚拟机<br>
+创建拥有多达 16 个虚拟 CPU、8 TB 虚拟磁盘以及 64 GB 内存的大规模虚拟机，以便在虚拟化环境中运行要求最严苛的桌面和服务器应用。通过为虚拟机分配主机提供的多达 3GB 的显存，可以使图形密集型应用的处理能力更上一层楼。</p>
+<p>8、支持高分辨率显示屏<br>
+Workstation Pro 已经过最新优化，可支持用于台式机的高分辨率 4K UHD (3840 x 2160) 显示屏，以及用于笔记本电脑和 x86 平板电脑的 QHD+ (3200 x 1800) 显示屏。它还支持具有不同 DPI 设置的多个显示屏，例如新的 4K UHD 显示屏以及现有的 1080P 高清显示屏。</p>
+<p>9、限制对虚拟机的访问<br>
+通过限制对 Workstation 虚拟机设置（例如拖放、复制和粘贴以及连接到 USB 设备）的访问来保护公司内容。可以对虚拟机进行加密和密码保护，确保只有授权用户才能访问。</p>
+<p>10、交叉兼容性<br>
+可创建能够跨 VMware 产品组合运行的 Linux 或 Windows 虚拟机，也可创建受限虚拟机以提高“离线”虚拟机安全性。Workstation 还支持开放虚拟机标准，便于您创建虚拟机和使用来自其他供应商的虚拟机。</p>
+<p>11、共享虚拟机<br>
+在模拟生产环境中快速共享和测试应用。将 VMware Workstation Pro 作为一个服务器运行，以便与您的团队成员、部门或组织共享具有各种所需配置的预加载 Linux 和 Windows 虚拟机的存储库。</p>
+<p><strong>激活密钥许可证</strong></p>
+<p><strong>VM16 激活许可证</strong></p>
+<p>ZF3R0-FHED2-M80TY-8QYGC-NPKYF</p>
+<p><strong>VM15 激活许可证</strong></p>
+<p>UY758-0RXEQ-M81WP-8ZM7Z-Y3HDA</p>
+<p>VF750-4MX5Q-488DQ-9WZE9-ZY2D6</p>
+<p>UU54R-FVD91-488PP-7NNGC-ZFAX6</p>
+<p>YC74H-FGF92-081VZ-R5QNG-P6RY4</p>
+<p>YC34H-6WWDK-085MQ-JYPNX-NZRA2</p>
+<p><strong>VM14 激活许可证</strong></p>
+<p>FF31K-AHZD1-H8ETZ-8WWEZ-WUUVA</p>
+<p>CV7T2-6WY5Q-48EWP-ZXY7X-QGUWD</p>
+<p><strong>VM12 激活许可证</strong></p>
+<p>5A02H-AU243-TZJ49-GTC7K-3C61N</p>
+<p>VF5XA-FNDDJ-085GZ-4NXZ9-N20E6</p>
+<p>UC5MR-8NE16-H81WY-R7QGV-QG2D8</p>
+<p>ZG1WH-ATY96-H80QP-X7PEX-Y30V4</p>
+<p>AA3E0-0VDE1-0893Z-KGZ59-QGAVF</p>
+<p><strong>VM10 激活许可证</strong></p>
+<p>1Z0G9-67285-FZG78-ZL3Q2-234JG</p>
+<p>4C4EK-89KDL-5ZFP9-1LA5P-2A0J0</p>
+<p>HY086-4T01N-CZ3U0-CV0QM-13DNU</p>
+<p>注意：如果是WinXP或32位系统请用 10.x 版本；11.x 版本之后支持Win7或更高版64位系统。</p>
+<p><strong>VMware 虚拟机 Mac OS 系统解锁工具 Unlocker</strong></p>
+<p>macOS Unlocker V3.0 for VMware Workstation<br>
+使用方法：找到它以管理员身份运行win-install.cmd<br>
+安装 Mac OS X，设置VM兼容性10，修改.vmx添加：<br>
+smc.version = “0″</p>
+<p><a href="https://github.angelblue.cn/unlocker-v303-vmware-xu-ni-ji-ruan-jian-mac-os-xi-tong-jie-suo-gong-ju/">解锁工具 Unlocker下载</a></p>
+<p><strong>系统要求</strong></p>
+<p>VM16 -&gt; Windows 10 或更高版64位<br>
+VM15 -&gt; Windows 7 或更高版64位<br>
+VM12 -&gt; Windows 7 或更高版64位<br>
+VM10 -&gt; Windows XP 或更高版32位和64位<br>
+官方自VM14版本开始不支持某些老旧电脑硬件<br>
+会提示不支持或安装失败, 如遇到请退回12版本。</p>
+<p><strong>下载地址</strong></p>
+<p>VMware Workstation Pro 16.1.0 Build 17198959<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.0-17198959.exe</p>
+<p>VMware Workstation Pro 16.0.0 Build 16894299<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe</p>
+<p>VMware Workstation Pro 15.5.6 Build 16341506<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.6-16341506.exe</p>
+<p>VMware Workstation Pro 15.5.5 Build 16285975<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.5-16285975.exe</p>
+<p>VMware Workstation Pro 15.5.2 Build 15785246<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.2-15785246.exe</p>
+<p>VMware Workstation Pro 15.5.1 Build 15018445<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.1-15018445.exe</p>
+<p>VMware Workstation Pro 15.5.0 Build 14665864<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.0-14665864.exe</p>
+<p>VMware Workstation Pro 15.1.0 Build 13591040<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.1.0-13591040.exe</p>
+<p>VMware Workstation Pro 14.1.3 Build 9474260<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.3-9474260.exe</p>
+<p>VMware Workstation Pro 12.5.9 Build 7535481<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.exe</p>
+<p>VMware Workstation 10.0.7 Build 2844087<br>
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.7-2844087.exe</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlocker v3.0.3 VMware 虚拟机软件 Mac OS 系统解锁工具]]></title>
         <id>https://angelbluesjy.github.io/unlocker-v303-vmware-xu-ni-ji-ruan-jian-mac-os-xi-tong-jie-suo-gong-ju/</id>
