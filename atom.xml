@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelbluesjy.github.io</id>
     <title>Angelblue&apos;Blog</title>
-    <updated>2020-12-06T05:53:56.244Z</updated>
+    <updated>2020-12-06T06:28:02.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelbluesjy.github.io"/>
     <link rel="self" href="https://angelbluesjy.github.io/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://angelbluesjy.github.io/images/avatar.png</logo>
     <icon>https://angelbluesjy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Angelblue&apos;Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Maya v1.0.7.0 类似Rolan简洁小巧简单易用的快速启动工具]]></title>
+        <id>https://angelbluesjy.github.io/maya-v1070-lei-si-rolan-jian-ji-xiao-qiao-jian-dan-yi-yong-de-kuai-su-qi-dong-gong-ju/</id>
+        <link href="https://angelbluesjy.github.io/maya-v1070-lei-si-rolan-jian-ji-xiao-qiao-jian-dan-yi-yong-de-kuai-su-qi-dong-gong-ju/">
+        </link>
+        <updated>2020-12-06T06:27:22.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<h1 id="maya-v1070-类似rolan简洁小巧简单易用的快速启动工具">Maya v1.0.7.0 类似Rolan简洁小巧简单易用的快速启动工具</h1>
+</blockquote>
+<p>Maya 是一款类似Rolan简洁小巧简单易用的快速启动工具，亿破姐网站发布过很多款快速启动工具，如：<strong>RunAny，Lucy快速启动，CLaunch，启动工具 Lily，nTrun，Rolan</strong>，音速启动等等多看免费专业的PC电脑桌面快速启动工具，Maya快速启动工具也是一个新的选择，Maya体积小巧、简单易用的快速启动工具。不要看体积小巧，它的功能还是非常多样化的，比如：多文件拖拽添加启动、快捷键呼出、自动多列显示、lnk文件解析等等。软件没有繁杂的功能，操作中也不会产生任何垃圾文件，绿色无污染，只专注于文件的快速启动，是用户提升Windows操作体验的好帮手。</p>
+<figure data-type="image" tabindex="1"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206142136394.png" alt="image-20201206142136394" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206142208352.png" alt="image-20201206142208352" loading="lazy"></figure>
+<p><strong>功能特性</strong></p>
+<p>1、简单，恰到好处<br>
+不需要过多的思考，不需要过多的学习，上手便能熟练使用，一试便知，你一定会喜欢上它。</p>
+<p>2、功能，短小精悍<br>
+麻雀虽小却五脏俱全，Maya苗条的身材下隐藏着巨大的能量。无限的潜能，期待你的发掘。</p>
+<p>3、外观，精妙绝伦<br>
+简约而不简单，每一处细节均精心打磨，每一处体验都深入人心，每一步操作皆无比轻松。</p>
+<p>4、惬意，发自内心<br>
+如春风，如夏雨，如秋叶，如冬雪。心旷神怡，妙不可言。这种感觉，绝无仅有。</p>
+<p>5、效果，立竿见影<br>
+一分钟，桌面回归整洁。彻底摆脱图标的困扰，尽情享受属于你的桌面。</p>
+<p>多文件拖拽添加启动<br>
+快捷键呼出显示/隐藏<br>
+鼠标悬停滚轮切换列表<br>
+自动多列显示<br>
+快捷方式编辑<br>
+lnk、url文件解析<br>
+参数变量、环境变量<br>
+开机启动、主动内存管理<br>
+分类、排序、自定义运行<br>
+自定义主题、自定义布局</p>
+<p>【参数变量】<br>
+支持 Win环境变量同时并内置 2 个 参数变量 (变量尾不含 \ ) ，涉及范围：目录、起始位置、启动参数。<br>
+变量名 说明 支持版本<br>
+%mp% 所在目录 1.0.2+<br>
+%mr% 所在盘根目录 1.0.2+<br>
+ps：因Win环境变量特殊性目前仅支持解析，不支持添加替换。</p>
+<p>【搜索命令】<br>
+命令头 说明 支持版本<br>
+&gt; 执行终端命令，如：&gt;ping arae.cc 1.0.5+<br>
+:bd 通过 百度 搜索 1.0.5+<br>
+:b 通过 必应 搜索 1.0.5+<br>
+:g 通过 谷歌 搜索 1.0.5+<br>
+:d 通过 DuckDuckGo 搜索 1.0.5+<br>
+ps：主窗口显示后，直接输入即可，无需手动打开搜索页。</p>
+<p><strong>下载地址</strong></p>
+<p><a href="https://github.com/25H/Maya/releases">软件官方网站地址</a></p>
+<p><a href="https://angelblue.top/test/%E5%8E%8B%E7%BC%A9%E5%8C%85/">我的网盘</a></p>
+<figure data-type="image" tabindex="3"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206142650888.png" alt="image-20201206142650888" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[装机不求人，10 分钟电脑配置挑选速成攻略]]></title>
         <id>https://angelbluesjy.github.io/zhuang-ji-bu-qiu-ren-10-fen-zhong-dian-nao-pei-zhi-tiao-xuan-su-cheng-gong-lue/</id>
