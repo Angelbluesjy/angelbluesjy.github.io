@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelbluesjy.github.io</id>
     <title>Angelblue&apos;Blog</title>
-    <updated>2020-12-06T06:28:02.292Z</updated>
+    <updated>2020-12-06T07:30:32.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelbluesjy.github.io"/>
     <link rel="self" href="https://angelbluesjy.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://angelbluesjy.github.io/images/avatar.png</logo>
     <icon>https://angelbluesjy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Angelblue&apos;Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Unlocker v3.0.3 VMware 虚拟机软件 Mac OS 系统解锁工具]]></title>
+        <id>https://angelbluesjy.github.io/unlocker-v303-vmware-xu-ni-ji-ruan-jian-mac-os-xi-tong-jie-suo-gong-ju/</id>
+        <link href="https://angelbluesjy.github.io/unlocker-v303-vmware-xu-ni-ji-ruan-jian-mac-os-xi-tong-jie-suo-gong-ju/">
+        </link>
+        <updated>2020-12-06T07:30:15.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<h1 id="unlocker-v303-vmware-虚拟机软件-mac-os-系统解锁工具">Unlocker v3.0.3 VMware 虚拟机软件 Mac OS 系统解锁工具</h1>
+</blockquote>
+<p>Unlocker 解锁 VMware Workstation 虚拟机Mac 系统工具 Unlocker可以解锁 VMware Workstation 对苹果Mac系统的支持，使用该工具即可安装Mac系统的虚拟机、目前Unlocker工具的开发者已经发布Unlocker v3.0.0版以便支持新版VMware v15 而且还支持Windows / Linux</p>
+<p>1、首先安装VMware Workstation 虚拟机</p>
+<figure data-type="image" tabindex="1"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206150329215.png" alt="image-20201206150329215" loading="lazy"></figure>
+<p>2、安装完成虚拟机后下载vm mac OS 补丁Unlocker、然后打开Windows 系统的任务管理器、在任务管理器的服务里点击名称倒序排列即可看到VMware的服务项，右键点击服务项然后将其全部停止掉（把带VM开头的进程全部停止掉即可）</p>
+<figure data-type="image" tabindex="2"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206150352358.png" alt="image-20201206150352358" loading="lazy"></figure>
+<p>3、解压 unlocker-master 文件然后右键点击win-install.cmd并使用管理员权限（必须是管理员）运行脚本，最好退出杀毒使用。</p>
+<figure data-type="image" tabindex="3"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206150420462.png" alt="image-20201206150420462" loading="lazy"></figure>
+<p>4、脚本工作过程会联网从VMware 官方服务器下载多个依赖组件，因此下载速度可能会比较慢请务必耐心等待。</p>
+<figure data-type="image" tabindex="4"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206150445567.png" alt="image-20201206150445567" loading="lazy"></figure>
+<p>5、脚本工作完成后关闭命令提示符窗口然后打开VMware Workstation新建虚拟机即可看到Apple Mac的选项。</p>
+<figure data-type="image" tabindex="5"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206150711615.png" alt="image-20201206150711615" loading="lazy"></figure>
+<p><strong>注意事项</strong></p>
+<p>win-install.cmd 必须使用管理员身份运行，运行没有MAC选项请查看是不是运行时被杀毒软件拦截导致失败.</p>
+<p><strong>下载地址</strong></p>
+<p><a href="https://angelblue.top/test/%E5%8E%8B%E7%BC%A9%E5%8C%85/">我的网盘</a></p>
+<figure data-type="image" tabindex="6"><img src="https://angelblue.oss-cn-beijing.aliyuncs.com/img/image-20201206152952552.png" alt="image-20201206152952552" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maya v1.0.7.0 类似Rolan简洁小巧简单易用的快速启动工具]]></title>
         <id>https://angelbluesjy.github.io/maya-v1070-lei-si-rolan-jian-ji-xiao-qiao-jian-dan-yi-yong-de-kuai-su-qi-dong-gong-ju/</id>
